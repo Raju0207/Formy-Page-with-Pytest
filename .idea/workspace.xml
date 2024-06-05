@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3610074a-2e15-4116-9ecb-76f9e345a469" name="Changes" comment="fixed switch tab and scroll" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2gsNQUzbJJ2MtoBRyhFtMEqd7G8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for conftest.test_a.executor": "Run",
+    "Python tests.Python tests for test_formy.Formy_Test.test_check_enable.executor": "Run",
+    "Python tests.Python tests for test_formy.Formy_Test.test_check_enable_disable.executor": "Run",
+    "Python tests.Python tests for test_formy.Formy_Test.test_check_enabled_disable.executor": "Run",
+    "Python tests.Python tests for test_formy.Formy_Test.test_drag_and_drop.executor": "Run",
+    "Python tests.Python tests for test_formy.Formy_Test.test_dropdown.executor": "Run",
+    "Python tests.Python tests for test_formy.Formy_Test.test_file_upload.executor": "Run",
+    "Python tests.Python tests for test_formy.Formy_Test.test_formy_autocomplete_data.executor": "Run",
+    "Python tests.Python tests for test_formy.Formy_Test.test_formy_buttons.executor": "Run",
+    "Python tests.Python tests for test_formy.Formy_Test.test_formy_datepicker.executor": "Run",
+    "Python tests.Python tests for test_formy.Formy_Test.test_key_press.executor": "Run",
+    "Python tests.Python tests for test_formy.Formy_Test.test_modal.executor": "Run",
+    "Python tests.Python tests for test_formy.Formy_Test.test_page_scroll.executor": "Run",
+    "Python tests.Python tests for test_formy.Formy_Test.test_switch_window.executor": "Run",
+    "Python tests.pytest for test_formy.FormyTest.test_formy_autocomplete_data.executor": "Run",
+    "Python tests.pytest for test_formy.Formy_Test.test_formy_autocomplete_data.executor": "Run",
+    "Python tests.pytest for test_formy.TestFormy.test_formy_autocomplete_data.executor": "Run",
+    "Python tests.pytest for test_formy.Test_Formy.test_formy_autocomplete_data.executor": "Run",
+    "Python tests.pytest in tests.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/raiha/Desktop/Leon Bhai/Formy-Page-Pytest/tests",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python tests.pytest for test_formy.Test_Formy.test_formy_autocomplete_data">
+    <configuration name="Python tests for conftest.test_a" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Practice_02" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;conftest.test_a&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="Formy-Page" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Formy-Page" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_formy.FormyTest.test_formy_autocomplete_data" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Practice_02" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_formy.FormyTest.test_formy_autocomplete_data&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_formy.Formy_Test.test_formy_autocomplete_data" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Practice_02" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_formy.Formy_Test.test_formy_autocomplete_data&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_formy.TestFormy.test_formy_autocomplete_data" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Practice_02" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_formy.TestFormy.test_formy_autocomplete_data&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_formy.Test_Formy.test_formy_autocomplete_data" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Practice_02" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_formy.Test_Formy.test_formy_autocomplete_data&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest for test_formy.Test_Formy.test_formy_autocomplete_data" />
+      <item itemvalue="Python tests.pytest for test_formy.FormyTest.test_formy_autocomplete_data" />
+      <item itemvalue="Python tests.pytest for test_formy.Formy_Test.test_formy_autocomplete_data" />
+      <item itemvalue="Python tests.pytest for test_formy.TestFormy.test_formy_autocomplete_data" />
+      <item itemvalue="Python tests.Python tests for conftest.test_a" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_formy.Test_Formy.test_formy_autocomplete_data" />
+        <item itemvalue="Python tests.pytest for test_formy.TestFormy.test_formy_autocomplete_data" />
+        <item itemvalue="Python tests.pytest for test_formy.Formy_Test.test_formy_autocomplete_data" />
+        <item itemvalue="Python tests.pytest for test_formy.FormyTest.test_formy_autocomplete_data" />
+        <item itemvalue="Python tests.Python tests for conftest.test_a" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3610074a-2e15-4116-9ecb-76f9e345a469" name="Changes" comment="" />
+      <created>1716482313537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716482313537</updated>
+    </task>
+    <task id="LOCAL-00001" summary="date picker fixed">
+      <option name="closed" value="true" />
+      <created>1716743151397</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716743151397</updated>
+    </task>
+    <task id="LOCAL-00002" summary="iframe and drag and drop">
+      <option name="closed" value="true" />
+      <created>1716748420749</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716748420749</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixed upload photo and dropdown locators">
+      <option name="closed" value="true" />
+      <created>1717089578185</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717089578185</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added enabled and disabled test">
+      <option name="closed" value="true" />
+      <created>1717090230249</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717090230249</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added keyboard and mouse action">
+      <option name="closed" value="true" />
+      <created>1717091808478</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717091808478</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added keyboard and mouse action">
+      <option name="closed" value="true" />
+      <created>1717091861636</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717091861636</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added modal test">
+      <option name="closed" value="true" />
+      <created>1717174014582</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717174014582</updated>
+    </task>
+    <task id="LOCAL-00008" summary="scroll method added">
+      <option name="closed" value="true" />
+      <created>1717174370987</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717174370987</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added open new tab and alert">
+      <option name="closed" value="true" />
+      <created>1717175636416</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717175636416</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fixed switch tab and scroll">
+      <option name="closed" value="true" />
+      <created>1717431270144</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1717431270144</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="date picker fixed" />
+    <MESSAGE value="iframe and drag and drop" />
+    <MESSAGE value="fixed upload photo and dropdown locators" />
+    <MESSAGE value="added enabled and disabled test" />
+    <MESSAGE value="added keyboard and mouse action" />
+    <MESSAGE value="added modal test" />
+    <MESSAGE value="scroll method added" />
+    <MESSAGE value="added open new tab and alert" />
+    <MESSAGE value="fixed switch tab and scroll" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed switch tab and scroll" />
+  </component>
+</project>
