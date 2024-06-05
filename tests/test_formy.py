@@ -1,6 +1,5 @@
 import time
 from tests.base_test import Base_Test
-# from pages.registration_page import Registration_Page
 from pages.formy_page import Formy_Page
 from testdata.data import Data
 import pytest
@@ -8,6 +7,7 @@ import pytest
 
 class Test_Formy(Base_Test):
 
+    @pytest.mark.sanity
     def test_formy_autocomplete_data(self):
         acp = Formy_Page(self.driver)
         # Autocomplete Page
@@ -105,7 +105,7 @@ class Test_Formy(Base_Test):
         dd.drag_and_drop()
         time.sleep(5)
 
-    # Dropdown
+    @pytest.mark.sanity# Dropdown
     def test_dropdown(self):
         dp = Formy_Page(self.driver)
         time.sleep(2)

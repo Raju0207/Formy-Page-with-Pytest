@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3610074a-2e15-4116-9ecb-76f9e345a469" name="Changes" comment="fixed switch tab and scroll" />
+    <list default="true" id="3610074a-2e15-4116-9ecb-76f9e345a469" name="Changes" comment="remove unnecessary data from base test">
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_formy.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_formy.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -291,7 +295,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717431270144</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="remove unnecessary data from base test">
+      <option name="closed" value="true" />
+      <created>1717603144611</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1717603144611</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -304,6 +316,7 @@
     <MESSAGE value="scroll method added" />
     <MESSAGE value="added open new tab and alert" />
     <MESSAGE value="fixed switch tab and scroll" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed switch tab and scroll" />
+    <MESSAGE value="remove unnecessary data from base test" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove unnecessary data from base test" />
   </component>
 </project>
