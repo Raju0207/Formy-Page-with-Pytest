@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3610074a-2e15-4116-9ecb-76f9e345a469" name="Changes" comment="remove unnecessary data from base test">
-      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+    <list default="true" id="3610074a-2e15-4116-9ecb-76f9e345a469" name="Changes" comment="mark added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_formy.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_formy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,51 +34,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for conftest.test_a.executor": "Run",
-    "Python tests.Python tests for test_formy.Formy_Test.test_check_enable.executor": "Run",
-    "Python tests.Python tests for test_formy.Formy_Test.test_check_enable_disable.executor": "Run",
-    "Python tests.Python tests for test_formy.Formy_Test.test_check_enabled_disable.executor": "Run",
-    "Python tests.Python tests for test_formy.Formy_Test.test_drag_and_drop.executor": "Run",
-    "Python tests.Python tests for test_formy.Formy_Test.test_dropdown.executor": "Run",
-    "Python tests.Python tests for test_formy.Formy_Test.test_file_upload.executor": "Run",
-    "Python tests.Python tests for test_formy.Formy_Test.test_formy_autocomplete_data.executor": "Run",
-    "Python tests.Python tests for test_formy.Formy_Test.test_formy_buttons.executor": "Run",
-    "Python tests.Python tests for test_formy.Formy_Test.test_formy_datepicker.executor": "Run",
-    "Python tests.Python tests for test_formy.Formy_Test.test_key_press.executor": "Run",
-    "Python tests.Python tests for test_formy.Formy_Test.test_modal.executor": "Run",
-    "Python tests.Python tests for test_formy.Formy_Test.test_page_scroll.executor": "Run",
-    "Python tests.Python tests for test_formy.Formy_Test.test_switch_window.executor": "Run",
-    "Python tests.pytest for test_formy.FormyTest.test_formy_autocomplete_data.executor": "Run",
-    "Python tests.pytest for test_formy.Formy_Test.test_formy_autocomplete_data.executor": "Run",
-    "Python tests.pytest for test_formy.TestFormy.test_formy_autocomplete_data.executor": "Run",
-    "Python tests.pytest for test_formy.Test_Formy.test_formy_autocomplete_data.executor": "Run",
-    "Python tests.pytest in tests.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/raiha/Desktop/Leon Bhai/Formy-Page-Pytest/tests",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for conftest.test_a.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_formy.Formy_Test.test_check_enable.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_formy.Formy_Test.test_check_enable_disable.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_formy.Formy_Test.test_check_enabled_disable.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_formy.Formy_Test.test_drag_and_drop.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_formy.Formy_Test.test_dropdown.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_formy.Formy_Test.test_file_upload.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_formy.Formy_Test.test_formy_autocomplete_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_formy.Formy_Test.test_formy_buttons.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_formy.Formy_Test.test_formy_datepicker.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_formy.Formy_Test.test_key_press.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_formy.Formy_Test.test_modal.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_formy.Formy_Test.test_page_scroll.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_formy.Formy_Test.test_switch_window.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_formy.FormyTest.test_formy_autocomplete_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_formy.Formy_Test.test_formy_autocomplete_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_formy.TestFormy.test_formy_autocomplete_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_formy.Test_Formy.test_dropdown.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_formy.Test_Formy.test_formy_autocomplete_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in tests.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/raiha/Desktop/Leon Bhai/Formy-Page-Pytest/tests&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python tests.pytest for test_formy.Test_Formy.test_formy_autocomplete_data">
-    <configuration name="Python tests for conftest.test_a" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Practice_02" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;conftest.test_a&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Python tests.pytest for test_formy.Test_Formy.test_dropdown">
     <configuration default="true" type="tests" factoryName="Autodetect">
       <module name="Formy-Page" />
       <option name="ENV_FILES" value="" />
@@ -165,6 +150,23 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for test_formy.Test_Formy.test_dropdown" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Practice_02" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_formy.Test_Formy.test_dropdown&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest for test_formy.Test_Formy.test_formy_autocomplete_data" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Practice_02" />
       <option name="ENV_FILES" value="" />
@@ -183,19 +185,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.pytest for test_formy.Test_Formy.test_formy_autocomplete_data" />
       <item itemvalue="Python tests.pytest for test_formy.FormyTest.test_formy_autocomplete_data" />
       <item itemvalue="Python tests.pytest for test_formy.Formy_Test.test_formy_autocomplete_data" />
       <item itemvalue="Python tests.pytest for test_formy.TestFormy.test_formy_autocomplete_data" />
-      <item itemvalue="Python tests.Python tests for conftest.test_a" />
+      <item itemvalue="Python tests.pytest for test_formy.Test_Formy.test_dropdown" />
+      <item itemvalue="Python tests.pytest for test_formy.Test_Formy.test_formy_autocomplete_data" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test_formy.Test_Formy.test_dropdown" />
         <item itemvalue="Python tests.pytest for test_formy.Test_Formy.test_formy_autocomplete_data" />
         <item itemvalue="Python tests.pytest for test_formy.TestFormy.test_formy_autocomplete_data" />
         <item itemvalue="Python tests.pytest for test_formy.Formy_Test.test_formy_autocomplete_data" />
         <item itemvalue="Python tests.pytest for test_formy.FormyTest.test_formy_autocomplete_data" />
-        <item itemvalue="Python tests.Python tests for conftest.test_a" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +305,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717603144611</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="mark added">
+      <option name="closed" value="true" />
+      <created>1717604288222</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1717604288222</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -317,6 +327,7 @@
     <MESSAGE value="added open new tab and alert" />
     <MESSAGE value="fixed switch tab and scroll" />
     <MESSAGE value="remove unnecessary data from base test" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove unnecessary data from base test" />
+    <MESSAGE value="mark added" />
+    <option name="LAST_COMMIT_MESSAGE" value="mark added" />
   </component>
 </project>
